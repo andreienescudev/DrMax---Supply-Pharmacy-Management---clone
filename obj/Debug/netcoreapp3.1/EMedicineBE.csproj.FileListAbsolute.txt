@@ -1,0 +1,96 @@
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.exe
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.deps.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.runtimeconfig.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.runtimeconfig.dev.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.pdb
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.AssemblyReference.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.AssemblyInfoInputs.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.AssemblyInfo.cs
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.CoreCompileInputs.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\staticwebassets\EMedicineBE.StaticWebAssets.Manifest.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.RazorTargetAssemblyInfo.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.CopyComplete
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.pdb
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.exe
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.deps.json
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.runtimeconfig.json
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.pdb
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\staticwebassets\EMedicineBE.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.dll
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.pdb
+C:\Users\ASUS\Desktop\Source Code\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.exe
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.deps.json
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.runtimeconfig.json
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\EMedicineBE.pdb
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\staticwebassets\EMedicineBE.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.dll
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.pdb
+C:\Users\ASUS\Desktop\DrMax - Supply Pharmacy Management\EMedicineBE\obj\Debug\netcoreapp3.1\EMedicineBE.genruntimeconfig.cache
